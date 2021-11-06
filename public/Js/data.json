@@ -1,0 +1,75 @@
+{
+    "works": [{
+            "id": 1,
+            "icon_name": "fab fa-html5 fa-x",
+            "title": "HTML5",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+
+        {
+            "id": 2,
+            "icon_name": "fab fa-css3-alt fa-x",
+            "title": "CSS3",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 3,
+            "icon_name": "fab fa-js fa-x",
+            "title": "JS-ES6",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }, {
+            "id": 4,
+            "icon_name": "fab fa-react fa-x",
+            "title": "React",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }, {
+            "id": 5,
+            "icon_name": "fab fa-bootstrap fa-x",
+            "title": "BOOTSTRAP",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }, {
+            "id": 6,
+            "icon_name": "fab fa-sass fa-x",
+            "title": "SASS",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio": [{
+            "id": 1,
+            "image": "./img/1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "/img/5.jpg"
+        },
+        {
+            "id": 3,
+            "image": "/img/3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "/img/4.jpg"
+        }
+
+    ],
+    "social": [{
+            "id": 1,
+            "icon": "fab fa-linkedin fa-3x",
+            "title": " Follow Me On",
+            "body": "Linkedin Account"
+        },
+        {
+            "id": 2,
+            "icon": "fab fa-github-square fa-3x",
+            "title": "Follow Me On",
+            "body": "Github Account"
+        },
+        {
+            "id": 3,
+            "icon": "fas fa-envelope fa-3x",
+            "title": "Contact Me On",
+            "body": "Gmail Account"
+        }
+    ]
+}
